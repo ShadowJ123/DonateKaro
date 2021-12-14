@@ -1,0 +1,15 @@
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\DonateKart.Repository.deps.json
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\DonateKart.Repository.dll
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\ref\DonateKart.Repository.dll
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\DonateKart.Repository.pdb
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\DonateKart.Model.dll
+C:\New folder\DonateKar\DonateKart.Repository\bin\Debug\net5.0\DonateKart.Model.pdb
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.csprojAssemblyReference.cache
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.AssemblyInfoInputs.cache
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.AssemblyInfo.cs
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.csproj.CoreCompileInputs.cache
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.csproj.CopyComplete
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.dll
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\ref\DonateKart.Repository.dll
+C:\New folder\DonateKar\DonateKart.Repository\obj\Debug\net5.0\DonateKart.Repository.pdb

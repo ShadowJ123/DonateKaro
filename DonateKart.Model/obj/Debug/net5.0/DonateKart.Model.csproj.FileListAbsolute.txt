@@ -1,0 +1,12 @@
+C:\New folder\DonateKar\DonateKart.Model\bin\Debug\net5.0\DonateKart.Model.deps.json
+C:\New folder\DonateKar\DonateKart.Model\bin\Debug\net5.0\DonateKart.Model.dll
+C:\New folder\DonateKar\DonateKart.Model\bin\Debug\net5.0\ref\DonateKart.Model.dll
+C:\New folder\DonateKar\DonateKart.Model\bin\Debug\net5.0\DonateKart.Model.pdb
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.csprojAssemblyReference.cache
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.AssemblyInfoInputs.cache
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.AssemblyInfo.cs
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.csproj.CoreCompileInputs.cache
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.dll
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\ref\DonateKart.Model.dll
+C:\New folder\DonateKar\DonateKart.Model\obj\Debug\net5.0\DonateKart.Model.pdb

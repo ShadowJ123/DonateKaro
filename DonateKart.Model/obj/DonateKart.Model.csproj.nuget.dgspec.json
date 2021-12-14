@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\New folder\\DonateKar\\DonateKart.Model\\DonateKart.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\New folder\\DonateKar\\DonateKart.Model\\DonateKart.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\New folder\\DonateKar\\DonateKart.Model\\DonateKart.Model.csproj",
+        "projectName": "DonateKart.Model",
+        "projectPath": "C:\\New folder\\DonateKar\\DonateKart.Model\\DonateKart.Model.csproj",
+        "packagesPath": "C:\\Users\\chhayaprakashrao.j\\.nuget\\packages\\",
+        "outputPath": "C:\\New folder\\DonateKar\\DonateKart.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chhayaprakashrao.j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SONATA\\Crawford code repo\\FSLS\\BuildingBlock.Core\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://globalcrawford.pkgs.visualstudio.com/_packaging/CrawfordPackages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
